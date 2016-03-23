@@ -1,7 +1,15 @@
 {
   "name": "random-encoder",
-  "version": "1.0.1",
-  "description": "Lightweight way to generate multiple, random, reversible \"hashes\" or encoding",
+  "version": "1.0.3",
+  "description": "Lightweight way to generate multiple, random, reversible hashes or encoding",
   "author": "Federico Brigante <npm@bfred.it> (https://twitter.com/bfred_it)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bfred-it/random-encoder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bfred-it/random-encoder/issues"
+  },
+  "homepage": "https://github.com/bfred-it/random-encoder#readme"
 }
